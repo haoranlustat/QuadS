@@ -5,13 +5,15 @@
 
 ## Set environments and install packages
 
-- Required R version 4.4.1
+Required R version 4.4.1
 
-- Required R packages:
+Required R packages:
 
-gss
-earth
-pROC
+- gss
+
+- earth
+
+- pROC
 
 # Files
 
