@@ -19,4 +19,4 @@ Required R packages:
 
 ## Contact us
 
-Website: https://bigdata.uga.edu/
+Website: https://haoranlustat.github.io/
