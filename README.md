@@ -2,14 +2,12 @@
 
 ## Introduction
 
-Loan behavior modeling is crucial in financial engineering. In particular, predicting loan pre-
-payment based on large-scale historical time series data of massive customers is challenging.
+Loan behavior modeling is crucial in financial engineering. In particular, predicting loan prepayment based on large-scale historical time series data of massive customers is challenging.
 Existing approaches, such as logistic regression or nonparametric regression, could only model
 the direct relationship between the features and the prepayments. Motivated by extracting the
 hidden states of loan behavior, we propose the smoothing spline state space (QuadS) model based
 on a hidden Markov model with varying transition and emission matrices modeled by smoothing
-splines. In contrast to existing methods, our method benefits from capturing the loans’ unob-
-served state transitions, which not only increases prediction performances but also provides more
+splines. In contrast to existing methods, our method benefits from capturing the loans’ unobserved state transitions, which not only increases prediction performances but also provides more
 interpretability. The overall model is learned by EM algorithm iterations, and within each iter-
 ation, smoothing splines are fitted with penalized least squares. Simulation studies demonstrate
 the effectiveness of the proposed method. Furthermore, a real-world case study using loan data
