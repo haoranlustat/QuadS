@@ -19,7 +19,7 @@ hidden behavior patterns that can offer valuable insights for the financial indu
 
 ## Set environments and install packages
 
-Required R version 4.4.1
+Required R version 4.4.1 or above
 
 Required R packages:
 
