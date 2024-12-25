@@ -17,6 +17,13 @@ Required R packages:
 
 # Files
 
+File `QuadS.R` is the R code for generating loan prepayment data and analysis with the QuadS method.
+
+File `functions/model.R` contains the code for the QuadS algorithm and the loan prepayment data generation procedure.
+
+File `functions/forward_backward.R` and `functions/function.R` contain the auxiliary function for the QuadS algorithm.
+
+
 ## Contact us
 
 Website: https://haoranlustat.github.io/
