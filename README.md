@@ -15,6 +15,10 @@ Required R packages:
 
 - pROC
 
+- bigsplines
+
+- dplyr
+
 # Files
 
 File `QuadS.R` is the R code for generating loan prepayment data and analysis with the QuadS method.
