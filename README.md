@@ -33,6 +33,8 @@ Required R packages:
 
 - dplyr
 
+- parallel
+
 ## Files
 
 File `QuadS.R` is the R code for generating loan prepayment data and analysis with the QuadS method.
